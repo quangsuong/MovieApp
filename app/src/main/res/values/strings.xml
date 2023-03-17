@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="base_url">https://omdbapi.com</string>
+    <string name="query_hint">Marvel</string>
+    <string name="home_title">Film list</string>
+    <string name="action_account">My Account</string>
+</resources>
